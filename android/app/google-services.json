@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "552580470880",
+    "project_id": "chatapp-12213",
+    "storage_bucket": "chatapp-12213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552580470880:android:b1501d8d1395219114cb05",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552580470880-7pd337fg8vfuhlvqbo60aal2j7imvcq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "d7dec616a560aadcdccc8079ab974b397212c114"
+          }
+        },
+        {
+          "client_id": "552580470880-gjm3pluiafga93212q2tg885dr6aiesp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOSyakn7tCEr8qRkCgX9NTzZG2ll47K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552580470880-60930sore9n4ca2ahqrrnveo1nom5gpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552580470880-bq0dc6kpg3hb1jg27v3akjev2o4jg809.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
