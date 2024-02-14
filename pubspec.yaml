@@ -51,6 +51,7 @@ dependencies:
   flutter_notification_channel: ^2.0.0
   gallery_saver: ^2.3.2
   material_icons_named: ^3.16.0
+  zego_uikit_prebuilt_call: ^1.2.14
 
 dev_dependencies:
   flutter_test:
