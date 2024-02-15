@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   # firebase_core: ^2.25.4
   velocity_x: ^4.1.1
-  get: ^4.6.5
+  get: ^4.6.6
   firebase_core: ^2.16.0
   firebase_auth: ^4.10.0
   firebase_storage: ^11.2.7
@@ -51,7 +51,7 @@ dependencies:
   flutter_notification_channel: ^2.0.0
   gallery_saver: ^2.3.2
   material_icons_named: ^3.16.0
-  zego_uikit_prebuilt_call: ^1.2.14
+ 
 
 dev_dependencies:
   flutter_test:
