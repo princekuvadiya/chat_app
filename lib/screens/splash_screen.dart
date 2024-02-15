@@ -59,7 +59,7 @@ class _SplashScreenState extends State<SplashScreen> {
         Positioned(
             bottom: mq.height * .15,
             width: mq.width,
-            child: const Text('MADE By PRINCE',
+            child: const Text('Made by Ambrox',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                     fontSize: 16, color: Colors.black87, letterSpacing: .5))),
